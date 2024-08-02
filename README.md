@@ -6,10 +6,10 @@
 ---
 
 <div align="center">
-  <img src="link-to-your-gif.gif" alt="Project Demo">
+  <img src="https://github.com/harshasenchati/Currency-Converter/blob/main/currency-converter-record.gif">
 </div>
 
----
+
 
 ## Table of Contents
 
@@ -18,9 +18,8 @@
 - [💻 Technologies Used](#technologies-used)
 - [⚙️ Setup](#setup)
 - [🚀 How to Use](#how-to-use)
-- [🗂 Project Structure](#project-structure)
 - [📜 License](#license)
-- [📬 Contact](#contact)
+
 
 ## Introduction
 
@@ -41,10 +40,3 @@ The Currency Converter project provides a robust tool for converting currencies 
 - <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="30" height="30"> JavaScript
 - <img src="https://img.icons8.com/color/48/000000/api.png" alt="API" width="30" height="30"> Exchange Rate API
 
-## Setup
-
-To run this project locally, follow these steps:
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/your-username/currency-converter.git
