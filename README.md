@@ -39,4 +39,26 @@ The Currency Converter project provides a robust tool for converting currencies 
 - <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="30" height="30"> CSS
 - <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="30" height="30"> JavaScript
 - <img src="https://img.icons8.com/color/48/000000/api.png" alt="API" width="30" height="30"> Exchange Rate API
+## Setup
+
+To run this project locally, follow these steps:
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/harshasenchati/Currency-Converter.git
+   ```
+2. **Navigate to the project directory**:
+   ```bash
+   cd Currency-Converter
+   ```
+3. Open index.html
+You can open index.html using your file explorer or a command suitable for your operating system. For Windows, use:
+```
+start  index.html
+```
+Alternatively, you can open index.html manually by double-clicking the file in File Explorer.
+## Usage
+After following the setup steps, your browser should display the Currency-Converter application. If it doesn’t open automatically, you can manually navigate to index.html in your browser.
+## License
+This project is licensed under the MIT License.
 
